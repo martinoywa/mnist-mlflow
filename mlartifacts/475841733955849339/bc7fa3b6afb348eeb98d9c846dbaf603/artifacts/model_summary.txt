@@ -1,0 +1,15 @@
+  | Name    | Type      | Params
+--------------------------------------
+0 | conv1   | Conv2d    | 320   
+1 | conv2   | Conv2d    | 18.5 K
+2 | pool    | MaxPool2d | 0     
+3 | fc1     | Linear    | 1.6 M 
+4 | fc2     | Linear    | 131 K 
+5 | fc3     | Linear    | 16.4 K
+6 | fc4     | Linear    | 650   
+7 | dropout | Dropout   | 0     
+--------------------------------------
+1.8 M     Trainable params
+0         Non-trainable params
+1.8 M     Total params
+7.094     Total estimated model params size (MB)

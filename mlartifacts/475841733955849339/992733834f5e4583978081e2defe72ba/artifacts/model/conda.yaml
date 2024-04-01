@@ -1,0 +1,27 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.10.12
+- pip<=23.2.1
+- pip:
+  - mlflow==2.5.0
+  - attrs==23.1.0
+  - cffi==1.15.1
+  - click==8.1.6
+  - cloudpickle==2.2.1
+  - defusedxml==0.7.1
+  - gmpy2==2.1.2
+  - html5lib==1.1
+  - ipython==8.12.2
+  - lightning==2.0.6
+  - lxml==4.9.1
+  - matplotlib==3.7.2
+  - numpy==1.25.2
+  - packaging==23.1
+  - pyyaml==6.0
+  - requests==2.31.0
+  - toml==0.10.2
+  - torch==2.0.1
+  - torchaudio==2.0.2
+  - torchvision==0.15.2
+name: mlflow-env

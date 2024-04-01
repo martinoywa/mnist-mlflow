@@ -1,0 +1,15 @@
+  | Name      | Type       | Params
+-----------------------------------------
+0 | encoder   | Sequential | 50.4 K
+1 | encoder.0 | Linear     | 50.2 K
+2 | encoder.1 | ReLU       | 0     
+3 | encoder.2 | Linear     | 195   
+4 | decoder   | Sequential | 51.2 K
+5 | decoder.0 | Linear     | 256   
+6 | decoder.1 | ReLU       | 0     
+7 | decoder.2 | Linear     | 51.0 K
+-----------------------------------------
+101 K     Trainable params
+0         Non-trainable params
+101 K     Total params
+0.407     Total estimated model params size (MB)
