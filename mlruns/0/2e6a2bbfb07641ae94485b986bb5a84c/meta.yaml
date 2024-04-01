@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2e6a2bbfb07641ae94485b986bb5a84c/artifacts
+end_time: 1691583726551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e6a2bbfb07641ae94485b986bb5a84c
+run_name: colorful-robin-904
+run_uuid: 2e6a2bbfb07641ae94485b986bb5a84c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691583726326
+status: 4
+tags: []
+user_id: martinoywa

@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1692217169067
+current_stage: None
+description: ''
+last_updated_timestamp: 1692217169067
+name: mnist
+run_id: 9d1d3ae6105c4329b2fe7023222f8a39
+run_link: ''
+source: mlflow-artifacts:/475841733955849339/9d1d3ae6105c4329b2fe7023222f8a39/artifacts/model
+status: READY
+status_message: null
+user_id: null
+version: 1
